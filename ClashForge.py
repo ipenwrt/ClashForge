@@ -2614,7 +2614,6 @@ if __name__ == '__main__':
         "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
         "https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml",
         "https://raw.githubusercontent.com/wangyingbo/yb_clashgithub_sub/main/clash_sub.yml",
-        "https://raw.githubusercontent.com/xiaoer8867785/jddy5/refs/heads/main/data/{Y_m_d}/{x}.yaml",
         "https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/clash/naidounode.txt",
         "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml",
         "https://raw.githubusercontent.com/aiboboxx/clashfree/refs/heads/main/clash.yml",

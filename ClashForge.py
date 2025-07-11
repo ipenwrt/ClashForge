@@ -2598,12 +2598,10 @@ if __name__ == '__main__':
         "https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/refs/heads/main/subscription/clash_sub.yaml",
         "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
         "https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml",
-        "https://raw.githubusercontent.com/leetomlee123/freenode/refs/heads/main/README.md",
         "https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/节点",
         "https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/LogInfo.txt",
-        "https://raw.githubusercontent.com/mai19950/clashgithub_com/refs/heads/main/site",
         "https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml",
         "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
         "https://raw.githubusercontent.com/mgit0001/test_clash/refs/heads/main/heima.txt",
@@ -2624,14 +2622,6 @@ if __name__ == '__main__':
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/LogInfo.txt",
         "https://github.com/mahdibland/V2RayAggregator/raw/refs/heads/master/Eternity.yml",
         "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/LogInfo.txt",
-        "https://raw.githubusercontent.com/wangyingbo/yb_clashgithub_sub/main/clash_sub.yml",
-        "https://SOS.CMLiussss.net/auto",
-        "https://sub.fqzsnai.ggff.net/auto",
-        "https://sub.mikeone.ggff.net/sub?token=6e300fe82f12874e439b76693aa179fb",
-        "https://sub.reajason.eu.org/clash.yaml",
-        "https://v1.mk/HuaplNe",
-        "https://www.freeclashnode.com/uploads/{Y}/{m}/0-{Ymd}.yaml",
-        "https://www.freeclashnode.com/uploads/{Y}/{m}/1-{Ymd}.yaml",
-        "https://zrf.zrf.me/zrf"
+        "https://raw.githubusercontent.com/wangyingbo/yb_clashgithub_sub/main/clash_sub.yml"
     ]
     work(links, check=True, only_check=False, allowed_types=["ss","hysteria2","hy2","vless","vmess","trojan"])

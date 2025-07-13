@@ -2590,7 +2590,7 @@ if __name__ == '__main__':
         "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
         "https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/clash.yaml",
         "https://raw.githubusercontent.com/aiboboxx/clashfree/refs/heads/main/clash.yml",
-        "https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md",
+        #"https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md",
         "https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/节点",
         "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
         "https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/v2ray",

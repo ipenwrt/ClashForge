@@ -2579,7 +2579,7 @@ if __name__ == '__main__':
         "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml",
         "https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/clash/naidounode.txt",
         #"https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/LogInfo.txt",
-        "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/LogInfo.txt",
+        #"https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/LogInfo.txt",
         "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
         "https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash",
         "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",

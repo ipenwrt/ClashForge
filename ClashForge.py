@@ -2572,18 +2572,18 @@ def work(links,check=False,allowed_types=[],only_check=False):
 
 if __name__ == '__main__':
     links = [
-        "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/LogInfo.txt",
+        "https://mxlsub.me/newfull",
+        "https://igdux.top/5Hna",
         "https://github.com/mahdibland/V2RayAggregator/raw/refs/heads/master/Eternity.yml",
-        "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/LogInfo.txt",
-        "https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/节点",
         "https://raw.githubusercontent.com/aiboboxx/clashfree/refs/heads/main/clash.yml",
         "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml",
         "https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/clash/naidounode.txt",
+        "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/LogInfo.txt",
+        "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/LogInfo.txt",
         "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
         "https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash",
         "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
         "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml",
-        "https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml",
         "https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml",
         "https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml",
@@ -2591,11 +2591,10 @@ if __name__ == '__main__':
         "https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/clash.yaml",
         "https://raw.githubusercontent.com/aiboboxx/clashfree/refs/heads/main/clash.yml",
         "https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md",
+        "https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/节点",
         "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
         "https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/v2ray",
         "https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc2.yaml",
-        "https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc4.yaml",
-        "https://mxlsub.me/newfull",
-        "https://igdux.top/5Hna"
+        "https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc4.yaml"
     ]
     work(links, check=True, only_check=False, allowed_types=["ss","hysteria2","hy2","vless","vmess","trojan"])
